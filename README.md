@@ -22,20 +22,60 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+  <header>
+      <h1>Streaming Website Project</h1>
+      <p>A Next.js project with Clerk authentication, video call functionality, and database integration.</p>
+    </header>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  <section id="technologies-used">
+      <h2>Technologies Used</h2>
+      <ul>
+        <li><strong>Next.js:</strong> React framework for production-level applications with server-side rendering.</li>
+        <li><strong>Clerk:</strong> Authentication service for secure user management.</li>
+        <li><strong>Video Call API:</strong> Real-time video call integration.</li>
+        <li><strong>Database:</strong> Stores user and stream data.</li>
+        <li><strong>TailwindCSS:</strong> Modern and responsive UI styling.</li>
+      </ul>
+    </section>
+
+   <section id="features">
+      <h2>Features</h2>
+      <ul>
+        <li>User Authentication with Clerk</li>
+        <li>Real-time video call functionality</li>
+        <li>Database to manage streaming data</li>
+        <li>Responsive UI for mobile and desktop</li>
+      </ul>
+    </section>
+
+   <section id="installation">
+      <h2>Installation</h2>
+      <p>To set up the project locally:</p>
+      <ol>
+        <li>Clone the repository:
+          <pre><code>git clone https://github.com/your-username/your-repo-name.git</code></pre>
+        </li>
+        <li>Install dependencies:
+          <pre><code>npm install</code></pre>
+        </li>
+        <li>Set up environment variables in a `.env.local` file.</li>
+        <li>Run the development server:
+          <pre><code>npm run dev</code></pre>
+        </li>
+      </ol>
+    </section>
+
+   <section id="usage">
+      <h2>Usage</h2>
+      <p>Users can sign up, log in, and join live streams through the video call API. Stream data is managed in the database.</p>
+    </section>
+
+   <section id="license">
+      <h2>License</h2>
+      <p>This project is licensed under the MIT License.</p>
+    </section>
 ```
 
 
