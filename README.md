@@ -72,11 +72,7 @@
       <p>Users can sign up, log in, and join live streams through the video call API. Stream data is managed in the database.</p>
     </section>
 
-   <section id="license">
-      <h2>License</h2>
-      <p>This project is licensed under the MIT License.</p>
-    </section>
-```
+
 
 
 
