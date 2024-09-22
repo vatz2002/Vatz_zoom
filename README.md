@@ -55,7 +55,7 @@
       <p>To set up the project locally:</p>
       <ol>
         <li>Clone the repository:
-          <pre><code>git clone https://github.com/your-username/your-repo-name.git</code></pre>
+          <pre><code>git clone https://github.com/vatz2002/Vatz_zoom.git</code></pre>
         </li>
         <li>Install dependencies:
           <pre><code>npm install</code></pre>
